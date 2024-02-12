@@ -1,0 +1,6 @@
+@IntuitiveTest_HostAddress = http://localhost:5078
+
+GET {{IntuitiveTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
